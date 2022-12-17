@@ -1,16 +1,18 @@
-# practice
+# WK3-Code-Challange
 
 
 ## Description
 
-This is an app that allows users to see upcoming movies and be able to buy tickets for the movies.
+This is an app allows users to purchase movie tickets online. It displays the number of tickets currently 
+available.
 
 # Author
 
-
+Brian Baraza
 
 # Live link
 
+https://baraza7.github.io/wk3-code-challange/
 
 
 ## Features
@@ -34,11 +36,11 @@ In order for you to use the content on this repo ensure you have the following:
 - Open a terminal / command line interface on your computer.
 - Clone the repo by using the following to create a copy on your local machine:
 
-        git clone 
+        git clone git@github.com:Baraza7/wk3-code-challange.git
        
 - Change directory to the repo folder:
 
-        cd 
+        cd WK3-Code-Challange
 
 - Open it in ``Visual Studio Code``
 
@@ -60,5 +62,6 @@ To run the application, you can use the following steps to run the app.
 - Right click on the `index.html` and navigate to `Open With Live Server` option, to open the application on your browser.
 - Repeat the steps on the `Features` section above.
 
-# License
+
+
 
